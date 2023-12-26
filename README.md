@@ -1,1 +1,2 @@
-# ICS_ACTIVITIES
+# FeedthePoor Project
+
